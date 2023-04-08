@@ -11,4 +11,4 @@ hashMap =  {}
 hashMap["key"] = 10
 print("key" in hashMap )
 print(hashMap["key"])
-print(hashMap.pop("key"))
+
