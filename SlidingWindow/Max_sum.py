@@ -14,3 +14,4 @@ def main():
     print("Max sum  of subarrays of size K:" + str(max_subarr(3, [2,1,5,1,3,2])))
     print("Max sum subarrays of size K:"+ str(max_subarr(2, [2,3,4,1,5])))
 main()
+
