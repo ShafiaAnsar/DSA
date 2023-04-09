@@ -1,9 +1,7 @@
 def fruit_basket(fruits):
     window_start = 0
     max_len = 0
-    fruit_freq = {
-        
-    }
+    fruit_freq = {}
     for window_end in range(len(fruits)):
         right_fruit = fruits[window_end]
         if right_fruit not in fruit_freq:
